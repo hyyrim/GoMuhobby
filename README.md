@@ -115,17 +115,23 @@
 
 ![마이페이지](https://user-images.githubusercontent.com/84282163/143777476-c70c0635-30f8-4daf-bfa6-a6925e283539.png)
 
+<br>
+
 ### 커뮤니티
 
 ![자유게시판](https://user-images.githubusercontent.com/84282163/143777496-82621925-7c9f-444d-84e4-539eef5ab494.png)
 
 ![큐앤에이게시판](https://user-images.githubusercontent.com/84282163/143777503-7d2aa319-151e-4a2a-a3d7-ffe9c39cfb0e.png)
 
+<br>
+
 ### 서비스
 
 #### 공지사항
 
 ![공지사항](https://user-images.githubusercontent.com/84282163/143777474-60003295-3b3f-4c42-bca5-94f4a0a5633d.png)
+
+<br>
 
 #### 1:1 문의 게시판
 
@@ -150,6 +156,8 @@
 ![문의관리자수정](https://user-images.githubusercontent.com/84282163/143777486-d3c52fb4-a31c-4518-9359-c754cb27c98d.png)
 
 - 답변이 작성된 후 수정/삭제 버튼이 활성화됩니다.
+
+<br>
 
 ### 마이페이지
 
